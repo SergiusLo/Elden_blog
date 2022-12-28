@@ -22,9 +22,10 @@
     "react-dom": "^18.2.0",
     "react-is": "^18.2.0",
     "react-portable-text": "^0.5.1",
-    "sanity": "^2.33.2",
+    "sanity": "^3.0.6",
     "styled-components": "^5.2.0",
-    "upgrade": "^1.1.0"
+    "upgrade": "^1.1.0",
+    "vercel": "^28.10.1"
   },
   "devDependencies": {
     "@sanity/eslint-config-studio": "^2.0.1",
