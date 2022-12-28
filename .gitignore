@@ -15,6 +15,7 @@
 /.next/
 /out/
 
+/sanity-blog-tutorial/node_modules
 
 # production
 
